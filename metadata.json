@@ -1,0 +1,6 @@
+{
+  "name": "Аудит сайта и контента — pavelsamuta.com",
+  "description": "Инструмент технического SEO, контент- и конверсионного аудита 61 страницы инженерного портала pavelsamuta.com с глубоким анализом на базе Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
